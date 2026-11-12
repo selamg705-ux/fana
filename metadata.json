@@ -1,0 +1,6 @@
+{
+  "name": "Mela Market",
+  "description": "Ethiopian marketplace with customer accounts, seller dashboard, Ethiopian location filtering, and Super Admin control.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
