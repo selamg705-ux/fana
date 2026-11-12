@@ -1,6 +1,0 @@
-{
-  "name": "Mela Market | መላ ገበያ | መላ ዕዳጋ",
-  "description": "Trilingual Ethiopian online marketplace connecting buyers, individual sellers, and verified merchants across Ethiopia in Amharic, Tigrinya, and English.",
-  "requestFramePermissions": ["camera"],
-  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
-}
